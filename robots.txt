@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glennsvendsen.github.io/ki-i-hverdagen/sitemap.xml
