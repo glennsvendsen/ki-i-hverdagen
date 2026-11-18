@@ -1,8 +1,8 @@
 // ===== Rediger kontaktinformasjon her (ett sted) =====
 const CONFIG = {
-  email: "",            // f.eks. "glenn@eksempel.no"  (tom = skjemaet viser advarsel)
-  phone: "",            // f.eks. "900 00 000"
-  phoneHref: "",        // f.eks. "+4790000000"
+  email: "glennsvends1@gmail.com",
+  phone: "482 64 210",
+  phoneHref: "+4748264210",
 };
 // =====================================================
 
